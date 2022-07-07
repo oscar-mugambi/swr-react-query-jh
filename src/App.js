@@ -1,10 +1,10 @@
 import './App.css'
-import Stopwatch from './components/Stopwatch'
+import Mutation from './components/Mutation'
 
 function App() {
   return (
     <div className='App'>
-      <Stopwatch />
+      <Mutation />
     </div>
   )
 }
